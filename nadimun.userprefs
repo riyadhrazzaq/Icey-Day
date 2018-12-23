@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\FixRatio.cs">
+    <Files>
+      <File FileName="Assets\scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\NextBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\KeyboardControll.cs" Line="33" Column="6" />
+      <File FileName="Assets\scripts\DeadByContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\DestroyByDeyal.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\FixRatio.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
